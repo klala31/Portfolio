@@ -2,8 +2,7 @@
 ## <b> 🧑‍💻 Behind the code </b>
 <div align ="justify">
 <b> I’m a Full Stack Developer and Data Engineer with a strong foundation in building dynamic, user-centric web applications and developing data-driven solutions that power smarter business decisions. My work bridges both software engineering and data science — from designing responsive frontends to creating automated data pipelines and insightful dashboards. I enjoy solving complex challenges end-to-end, whether it's developing scalable systems, optimizing database performance, or uncovering trends through advanced analytics. With experience in cloud platforms, I aim to build reliable, efficient, and impactful tech solutions that align code with insight.</b>
-<br> 
-</div>
+</div><br>
 
 ## <b> 🗃️ Tech Stacks </b>
 ### 🧠 <b> My Development Arsenal </b>
@@ -35,9 +34,9 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
 ### <b> 💡 Stories Through Dashboards </b> <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" style="margin: 10px;" title="Tableau"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30" style="margin: 10px;" title="Power BI"> <br>
-<div align = "justify"><br>
-  
+
 ## <b> 🌟 Career Highlights </b> <br>
+<div align="justify">
 <b> <li> Research & Teaching Assistant @ Michigan Technological University | *(Jan 2025 - Present)* </b> <br>
 As a Research and Teaching Assistant at Michigan Technological University since January 2025, I led sentiment analysis research using SPSS, which contributed to two academic publications. I guided over 50 students through hands-on analytics projects utilizing Python and R, revamped course content to include industry-relevant tools like Power BI, and delivered workshops that significantly increased student satisfaction. Additionally, I evaluated more than 60 student projects with a focus on KPI alignment and effective data storytelling.
 
