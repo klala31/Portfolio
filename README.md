@@ -16,10 +16,10 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
 ### <b>🏗️ I Architect with Frameworks </b> <br>
 <img src="https://skillicons.dev/icons?i=spring,django,angular,express,react" alt="My Skills" /><br>
 
-###  <b> 🧱 Databases I Rely On </b> <br>
+###  <b> 🗄️ Databases I Rely On </b> <br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" alt="My Skills" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"/><br>
 
-###  <b> ☁️ In the Cloud(s) </b><br>
+###  <b> 🌩️ In the Cloud(s) </b><br>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure" alt="My Skills" /><br>
 
 ### <b> 🧪 Testing My Way to Perfection </b> <br>
@@ -28,10 +28,10 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
 ### <b> 🧩 Git Good </b> <br>
 <img src="https://skillicons.dev/icons?i=git,github" alt="My Skills" />
 
-### <b> ⚙️ Engineering Data Like a Pro </b> <br>
+### <b> 🛠️ Engineering Data Like a Pro </b> <br>
 <img src="https://skillicons.dev/icons?i=kafka" alt="My Skills" /> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" style="margin: 10px;" title="Apache Spark"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="50" style="margin: 10px;" title="Apache Airflow">
 
-### <b> 📊 Stories Through Dashboards </b> <br>
+### <b> 💡 Stories Through Dashboards </b> <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" style="margin: 10px;" title="Tableau"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30" style="margin: 10px;" title="Power BI"> <br>
 
