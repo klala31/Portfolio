@@ -13,7 +13,7 @@
 
 <div align="justify">
 <b> 
--- Languages: Java, Python, JavaScript, R  <br> 
+* Languages: Java, Python, JavaScript, R  <br> 
 -- Front-End: Angular, React <br>
 -- Back-End: Spring Boot, Django, Express.js <br>
 -- Databases: Microsoft SQL Server, MongoDB, PostgreSQL, MySQL, Snowflake <br>
