@@ -12,7 +12,7 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
 <div align="center"> 
 
 ### <b> 🧰 My Coding Dialects  </b>
-###### ![My Skills](https://skillicons.dev/icons?i=java,py,js,r)
+<img src="https://skillicons.dev/icons?i=java,py,js,r" alt="My Skills" />
 
 ### <b>🏗️ I Architect with Frameworks </b>
 ###### [![My Skills](https://skillicons.dev/icons?i=spring,django,angular,express,react)](https://skillicons.dev)
