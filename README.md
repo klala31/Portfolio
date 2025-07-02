@@ -37,13 +37,14 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
 
 ## <b> 🌟 Career Highlights </b> <br>
 <div align="justify">  
-<b> <li> Research & Teaching Assistant @ Michigan Technological University | *(Jan 2025 - Present)* </b> <br>
-As a Research and Teaching Assistant at Michigan Technological University since January 2025, I led sentiment analysis research using SPSS, which contributed to two academic publications. I guided over 50 students through hands-on analytics projects utilizing Python and R, revamped course content to include industry-relevant tools like Power BI, and delivered workshops that significantly increased student satisfaction. Additionally, I evaluated more than 60 student projects with a focus on KPI alignment and effective data storytelling.
 
-<b> <li> Lead Data Analyst @ Michigan Technological University | *(May 2024 - Dec 2024)* </b> <br>
-I owned the development of financial reporting dashboards in Power BI, improving report turnaround by 35%. I created semantic models and KPIs with DAX to unify reporting standards across departments. By automating ETL processes with Python and SQL, I saved over 60 hours monthly and enabled self-service BI by onboarding 20+ users from different teams.
+<b> <li> Research & Teaching Assistant @ Michigan Technological University | *(Jan 2025 - Present)*  </li> </b> <br>
+As a Research and Teaching Assistant at Michigan Technological University since January 2025, I led sentiment analysis research using SPSS, which contributed to two academic publications. I guided over 50 students through hands-on analytics projects utilizing Python and R, revamped course content to include industry-relevant tools like Power BI, and delivered workshops that significantly increased student satisfaction. Additionally, I evaluated more than 60 student projects with a focus on KPI alignment and effective data storytelling. <br>
 
-<b> <li> Data Analyst @ Tata Consulting Services | *(Apr 2021 - Dec 2022)* </b> <br>
+<b> <li> Lead Data Analyst @ Michigan Technological University | *(May 2024 - Dec 2024)* </li> </b> <br>
+I owned the development of financial reporting dashboards in Power BI, improving report turnaround by 35%. I created semantic models and KPIs with DAX to unify reporting standards across departments. By automating ETL processes with Python and SQL, I saved over 60 hours monthly and enabled self-service BI by onboarding 20+ users from different teams. <br>
+
+<b> <li> Data Analyst @ Tata Consulting Services | *(Apr 2021 - Dec 2022)* </li> </b> <br>
 At TCS, I developed executive dashboards in Power BI for Verizon, enhancing visibility into financial and training metrics and speeding decision-making by 25%. I built secure, scalable data models with row-level access and automated data pipelines using Python and AWS Lambda to reduce latency. I also established SQL validation frameworks ensuring over 99% data accuracy, and drove a 40% increase in dashboard usage through stakeholder collaboration and iterative improvements.
 </div> <br>  
 
