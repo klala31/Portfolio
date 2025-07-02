@@ -10,14 +10,14 @@
 ## Tech Stacks
 <b> 
 Languages: Java, Python, JavaScript, R  <br> 
-Front-End: Angular, React
-Back-End: Spring Boot, Django, Express.js
-Databases: Microsoft SQL Server, MongoDB, PostgreSQL, MySQL, Snowflake
-Cloud Platforms: Amazon Web Services(AWS), Google Cloud Platform(GCP)
-Testing Tools: Postman, JUnit
-Version Control: Git
-Data Engineering Tools: Apache Airflow, Apache Kafka, Apache Spark
-Business Intelligence Tools: Tableau, Microsoft PowerBI
+Front-End: Angular, React <br>
+Back-End: Spring Boot, Django, Express.js <br>
+Databases: Microsoft SQL Server, MongoDB, PostgreSQL, MySQL, Snowflake <br>
+Cloud Platforms: Amazon Web Services(AWS), Google Cloud Platform(GCP), Microsoft Azure <br>
+Testing Tools: Postman, JUnit <br>
+Version Control: Git <br>
+Data Engineering Tools: Apache Airflow, Apache Kafka, Apache Spark <br>
+Business Intelligence Tools: Tableau, Microsoft PowerBI <br>
 </b>
 
 </div>
