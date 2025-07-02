@@ -1,2 +1,4 @@
 title: Koushik Srivastav Lala
 theme: jekyll-theme-minimal
+include:
+  - assets/css/style.css
