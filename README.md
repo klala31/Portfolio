@@ -10,6 +10,11 @@
 
 ## 🗃️ Tech Stacks
 
+### 🧠 My Development Arsenal 
+
+<b> Hey there! 👋  
+Here's a sneak peek into the digital toolbox I use to craft clean code, smart systems, and impactful insights. From backend engines to shiny dashboards — these are the tools that power my creations. </b> 
+
 <table>
   <tr>
     <td align="center" valign="top" style="padding: 15px;">
