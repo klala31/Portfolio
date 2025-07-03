@@ -115,3 +115,52 @@ At TCS, I developed executive dashboards in Power BI for Verizon, improving fina
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>💼 My Coding Dialects</h4>
+      <img src="https://skillicons.dev/icons?i=java,py,js,r" alt="Languages" />
+    </td>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>🏗️ I Architect with Frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=spring,django,angular,express,react" alt="Frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>🗄️ Databases I Rely On</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" alt="Databases" /><br>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+    </td>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>🌩️ In the Cloud(s)</h4>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" alt="Cloud Platforms" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>🧪 Testing My Way to Perfection</h4>
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /><br>
+      <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit" />
+    </td>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>🧩 Git Good</h4>
+      <img src="https://skillicons.dev/icons?i=git,github" alt="Git Tools" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>🛠️ Engineering Data Like a Pro</h4>
+      <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" title="Apache Spark" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="50" title="Apache Airflow" />
+    </td>
+    <td align="center" valign="top" style="padding: 15px;">
+      <h4>💡 Stories Through Dashboards</h4>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" title="Tableau" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" title="Power BI" />
+    </td>
+  </tr>
+</table>
