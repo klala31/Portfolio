@@ -1,4 +1,4 @@
-# 💻 **Data Engineer & Full Stack Developer**
+# 💻 Data Engineer & Full Stack Developer
 
 ## 🧑‍💻 Behind the Code
 
@@ -9,13 +9,6 @@ I’m a Full Stack Developer and Data Engineer with a strong foundation in build
 ---
 
 ## 🗃️ Tech Stacks
-
-### 🧠 **My Development Arsenal**
-
-Hey there! 👋  
-Here's a sneak peek into the digital toolbox I use to craft clean code, smart systems, and impactful insights. From backend engines to shiny dashboards — these are the tools that power my creations.
-
----
 
 <table>
   <tr>
@@ -42,7 +35,7 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
   <tr>
     <td align="center" valign="top" style="padding: 15px;">
       <h4>🧪 Testing My Way to Perfection</h4>
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /><br>
       <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit" />
     </td>
     <td align="center" valign="top" style="padding: 15px;">
@@ -53,7 +46,7 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
   <tr>
     <td align="center" valign="top" style="padding: 15px;">
       <h4>🛠️ Engineering Data Like a Pro</h4>
-      <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
+      <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" title="Apache Spark" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="50" title="Apache Airflow" />
     </td>
@@ -70,24 +63,26 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
 ## 🌟 Career Highlights
 
 ### 🔹 RA & TA @ Michigan Technological University | *(Jan 2025 – Present)*  
-As a Research and Teaching Assistant, I led sentiment analysis research using SPSS that contributed to two academic publications. I mentored 50+ students in hands-on analytics projects using Python and R, revamped course content with industry tools like Power BI, and delivered workshops that enhanced student satisfaction. I also evaluated 60+ student projects with a focus on KPI alignment and data storytelling.
+Led sentiment analysis research using SPSS for two academic publications. Guided 50+ students in Python and R analytics projects. Modernized course content with Power BI and led workshops that boosted student satisfaction. Reviewed 60+ projects focused on KPIs and data storytelling.
 
 ### 🔹 Lead Data Analyst @ Michigan Technological University | *(May 2024 – Dec 2024)*  
-I owned the development of financial reporting dashboards in Power BI, reducing turnaround time by 35%. I designed semantic models and KPIs using DAX and automated ETL processes with Python and SQL, saving over 60 hours per month. I also enabled self-service BI for 20+ departmental users.
+Developed Power BI dashboards reducing report turnaround by 35%. Built semantic models and KPIs with DAX. Automated ETL with Python/SQL, saving 60+ hours monthly, and trained 20+ users on self-service BI.
 
 ### 🔹 Data Analyst @ Tata Consultancy Services | *(Apr 2021 – Dec 2022)*  
-At TCS, I developed executive dashboards in Power BI for Verizon, improving financial and training visibility and reducing decision cycles by 25%. I built secure, scalable data models with row-level access, automated pipelines using Python and AWS Lambda, and implemented SQL validation to ensure 99%+ data accuracy. My iterative stakeholder engagement increased dashboard adoption by 40%.
+Built executive dashboards for Verizon to track financial/training metrics, improving decision speed by 25%. Created secure, scalable models with Python & AWS Lambda. Ensured 99%+ SQL data accuracy and drove 40% growth in dashboard usage.
 
 ---
 
 ## 🚀 Projects
 
-*(Add your project descriptions here in paragraph or bullet format, including tools used and key outcomes.)*
+> *(Add your projects here – include tools, goals, and results)*
 
 ---
 
 ## 🎓 Academic Background
 
-- **M.S. in Data Science** - *Michigan Technological University / (2023 - 2024)*
-- **B.Tech in Computer Science and Engineering** - *Jawaharlal Nehru Technological University / (2018 - 2022)*
----
+
+
+
+- **M.S. in Data Science** — *Michigan Technological University* | *(2023 – 2024)*  
+- **B.Tech in Computer Science and Engineering** — *Jawaharlal Nehru Technological University* | *(2018 – 2022)*
