@@ -42,7 +42,7 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
   <tr>
     <td align="center" valign="top" style="padding: 15px;">
       <h4>🧪 Testing My Way to Perfection</h4>
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /><br>
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
       <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit" />
     </td>
     <td align="center" valign="top" style="padding: 15px;">
@@ -53,7 +53,7 @@ Here's a sneak peek into the digital toolbox I use to craft clean code, smart sy
   <tr>
     <td align="center" valign="top" style="padding: 15px;">
       <h4>🛠️ Engineering Data Like a Pro</h4>
-      <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /><br>
+      <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" title="Apache Spark" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="50" title="Apache Airflow" />
     </td>
