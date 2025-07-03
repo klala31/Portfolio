@@ -84,5 +84,5 @@ Built executive dashboards for Verizon to track financial/training metrics, impr
 
 
 
-- **M.S. in Data Science** — *Michigan Technological University (2023 – 2024)*  
-- **B.Tech in Computer Science and Engineering** — *Jawaharlal Nehru Technological University (2018 – 2022)*
+- **M.S. in Data Science** — <b>*Michigan Technological University (2023 – 2024)*  </b>
+- **B.Tech in Computer Science and Engineering** — <b> *Jawaharlal Nehru Technological University (2018 – 2022)* </b>
