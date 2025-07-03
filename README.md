@@ -3,7 +3,7 @@
 ## 🧑‍💻 Behind the Code
 
 <div align="justify">
-I’m a Full Stack Developer and Data Engineer with a strong foundation in building dynamic, user-centric web applications and developing data-driven solutions that power smarter business decisions. My work bridges both software engineering and data science — from designing responsive frontends to creating automated data pipelines and insightful dashboards. I enjoy solving complex challenges end-to-end, whether it's developing scalable systems, optimizing database performance, or uncovering trends through advanced analytics. With experience in cloud platforms, I aim to build reliable, efficient, and impactful tech solutions that align code with insight.
+<b> I’m a Full Stack Developer and Data Engineer with a strong foundation in building dynamic, user-centric web applications and developing data-driven solutions that power smarter business decisions. My work bridges both software engineering and data science — from designing responsive frontends to creating automated data pipelines and insightful dashboards. I enjoy solving complex challenges end-to-end, whether it's developing scalable systems, optimizing database performance, or uncovering trends through advanced analytics. With experience in cloud platforms, I aim to build reliable, efficient, and impactful tech solutions that align code with insight. </b>
 </div>
 
 ---
@@ -63,13 +63,13 @@ I’m a Full Stack Developer and Data Engineer with a strong foundation in build
 ## 🌟 Career Highlights
 
 ### 🔹 RA & TA @ Michigan Technological University | *(Jan 2025 – Present)*  
-Led sentiment analysis research using SPSS for two academic publications. Guided 50+ students in Python and R analytics projects. Modernized course content with Power BI and led workshops that boosted student satisfaction. Reviewed 60+ projects focused on KPIs and data storytelling.
+<b> Led sentiment analysis research using SPSS for two academic publications. Guided 50+ students in Python and R analytics projects. Modernized course content with Power BI and led workshops that boosted student satisfaction. Reviewed 60+ projects focused on KPIs and data storytelling. </b>
 
 ### 🔹 Lead Data Analyst @ Michigan Technological University | *(May 2024 – Dec 2024)*  
-Developed Power BI dashboards reducing report turnaround by 35%. Built semantic models and KPIs with DAX. Automated ETL with Python/SQL, saving 60+ hours monthly, and trained 20+ users on self-service BI.
+<b> Developed Power BI dashboards reducing report turnaround by 35%. Built semantic models and KPIs with DAX. Automated ETL with Python/SQL, saving 60+ hours monthly, and trained 20+ users on self-service BI. </b>
 
 ### 🔹 Data Analyst @ Tata Consultancy Services | *(Apr 2021 – Dec 2022)*  
-Built executive dashboards for Verizon to track financial/training metrics, improving decision speed by 25%. Created secure, scalable models with Python & AWS Lambda. Ensured 99%+ SQL data accuracy and drove 40% growth in dashboard usage.
+<b> Built executive dashboards for Verizon to track financial/training metrics, improving decision speed by 25%. Created secure, scalable models with Python & AWS Lambda. Ensured 99%+ SQL data accuracy and drove 40% growth in dashboard usage. </b>
 
 ---
 
@@ -80,9 +80,6 @@ Built executive dashboards for Verizon to track financial/training metrics, impr
 ---
 
 ## 🎓 Academic Background
-
-
-
 
 - **M.S. in Data Science** — <b>*Michigan Technological University (2023 – 2024)*  </b>
 - **B.Tech in Computer Science and Engineering** — <b> *Jawaharlal Nehru Technological University (2018 – 2022)* </b>
