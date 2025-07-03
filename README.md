@@ -88,7 +88,6 @@ At TCS, I developed executive dashboards in Power BI for Verizon, improving fina
 
 ## 🎓 Academic Background
 
-- **M.S. in Data Science** – *Michigan Technological University  | (2023 – 2024)*  
-- **B.Tech in Computer Science and Engineering** – *Jawaharlal Nehru Technological University | (2018 – 2022)*
-
+- **M.S. in Data Science** - *Michigan Technological University / (2023 - 2024)*
+- **B.Tech in Computer Science and Engineering** - *Jawaharlal Nehru Technological University / (2018 - 2022)*
 ---
